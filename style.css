@@ -57,7 +57,7 @@ h3 {
   color: #02818a;
 }
 
-.element.active .title .show {
+.element.active .title svg.show {
   -webkit-animation: rotate-45 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
           animation: rotate-45 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
